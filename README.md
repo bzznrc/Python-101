@@ -1,11 +1,11 @@
 # Python 101
-Ciao amichi,
+Heyyy,
 
-Queste sono le 5 lezioni che ho fatto e rifatto a fine 2020 insieme a tre gruppi di audaci amici e conoscenti.
+So these are the 5 Python lessons I've created at the end of 2020 for three groups of audacious friends.
 
-Nel caso voleste imparare a programmare, le indicazioni che ci sono dovrebbero essere abbastanza chiare.
-Non serve installare nulla, si fa tutto su una piattaforma di Google che si chiama "Colab", e i cinque file che vedete sono "IPython Notebooks", ovvero un mix di note testuali e codice. All'inizio di ogni file c'é il linkino blu "open in Colab", si parte da lí.
+If you'd like to start programming, this is the right place.
+You don't need to install anything, and the code is run on Colab, which is a Google tool. The files you see there are "IPyhon Notebooks", which is a mix of text notes and code. At the beginning of each file, you'll see a blue "open in Colab" link. You start from there.
 
-Puó darsi che alcune parti siano mezze in inglese, non avevo le idee chiarissime quando l'ho scritto.
+I'm currently translating this whole thing in english since the first version was a dubious mix of italian and english.
 
-Se avete bisogno chiedete pure! 🙂
+Happy coding! 🙂
