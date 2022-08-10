@@ -1,5 +1,5 @@
 # Python 101
-Ciao amichi,
+Ciao amici,
 
 Queste sono le 5 lezioni che ho fatto e rifatto a fine 2020 insieme a tre gruppi di audaci amici e conoscenti.
 
