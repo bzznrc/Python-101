@@ -2,7 +2,7 @@
 
 Hey there! 👋
 
-Welcome to the **Introduction to Python Programming** course! These are the 5 Python lessons I created at the end of 2020 for three groups of enthusiastic friends.
+Welcome to the **Introduction to Python Programming** course! These are the 5 Python lessons I created at the end of 2020 for three groups of audacious friends.
 
 If you'd like to start programming, this is the right place. You don't need to install anything—the code runs on **Google Colab**, which is a cloud platform provided by Google. The files you see here are **IPython Notebooks** (`.ipynb` files), which are a mix of text notes and code, making it easy to follow along and interact with the code.
 
